@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.wrap{
+    width: 100%;
+    background: aliceblue;
+    padding-left: 40%;
+}
+
